@@ -265,3 +265,7 @@ label {
 @media screen and (max-height:1200px) and (max-width:500px) {
   #logo{top:27%}
 }
+
+@media screen and (max-height:900px) and (max-width:500px) {
+  #logo{top:20%}
+}
