@@ -254,3 +254,10 @@ label {
   }
   
 }
+
+@media screen and (max-height:800px) {
+  #logo{top:13%}
+}
+@media screen and (max-height:660px) {
+  #logo{top:5%}
+}
