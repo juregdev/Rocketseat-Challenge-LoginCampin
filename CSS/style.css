@@ -196,16 +196,13 @@ label {
 
 @media screen and (max-width:600px){
 
-  #logo{
-    top:27%;
-    left:auto;
-  }
+ 
 
   .carCamp{display: none;}
 
   .formCont{padding: 0;}
 
-  body {background: no-repeat center/cover url(../IMG/side-image-2x.jpg);}
+  body {background: var(--background);}
 
   .contFormAll{background-color:#191816c9 ;}
 
@@ -224,8 +221,7 @@ label {
 
 @media screen and (max-width:340px) {
 
-  #logo{top: 30px;
-  left: 30%;}
+  
     
   .contFormAll{
     width: 100vw;
@@ -255,21 +251,8 @@ label {
   
 }
 
+@media screen and (max-width:300px){
 
-@media screen and (max-height:900px) {
-  #logo{top:20%}
+  #logo{left:auto;}
+  
 }
-
-@media screen and (max-height:800px) {
-  #logo{top:13%}
-}
-@media screen and (max-height:660px) {
-  #logo{top:5%}
-}
-@media screen and (min-height:1000px) and (max-width:600) {
-  #logo{top:25%}
-}
-
-
-
-
