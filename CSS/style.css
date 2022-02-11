@@ -30,6 +30,12 @@ html{width: 100%;}
   overflow: hidden;
 }
 
+#logo{
+  position:absolute;
+  left: 2%;
+  top:2%;
+}
+
 .contFormAll{
            
             background-color: var(--form-background);
