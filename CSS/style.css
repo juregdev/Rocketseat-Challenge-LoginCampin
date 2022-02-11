@@ -197,7 +197,7 @@ label {
 @media screen and (max-width:600px){
 
   #logo{
-    top:23%;
+    top:27%;
     left:auto;
   }
 
@@ -255,6 +255,7 @@ label {
   
 }
 
+
 @media screen and (max-height:900px) {
   #logo{top:20%}
 }
@@ -265,6 +266,10 @@ label {
 @media screen and (max-height:660px) {
   #logo{top:5%}
 }
+@media screen and (min-height:1000px) and (max-width:600) {
+  #logo{top:25%}
+}
+
 
 
 
