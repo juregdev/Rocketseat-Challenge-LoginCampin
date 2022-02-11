@@ -71,7 +71,7 @@ img{margin: auto 0 auto auto;}
 .carCamp{
   width: 50vw;
   height: 100%;
-  background: no-repeat center/cover url(/IMG/side-image.jpg);
+  background: no-repeat center/cover url(./IMG/side-image.jpg);
   margin: 0;
 }
 
