@@ -197,7 +197,7 @@ label {
 @media screen and (max-width:600px){
 
   #logo{
-    top:15%;
+    top:20%;
     left:auto;
   }
 
@@ -224,7 +224,8 @@ label {
 
 @media screen and (max-width:340px) {
 
-  #logo{top: 30px;}
+  #logo{top: 30px;
+  left: 30%;}
     
   .contFormAll{
     width: 100vw;
