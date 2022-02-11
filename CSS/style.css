@@ -146,6 +146,8 @@ label {
   
   }
 
+#checkRem{display: flex;}
+
 #submit{ display: block; 
       background-color: var(--primary-color);
       color: var(--form-background);
