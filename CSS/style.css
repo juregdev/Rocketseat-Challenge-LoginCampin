@@ -32,8 +32,8 @@ html{width: 100%;}
 
 #logo{
   position:absolute;
-  left: 2%;
-  top:2%;
+  left: 40px;
+  top:40px;
 }
 
 .contFormAll{
@@ -194,6 +194,11 @@ label {
 
 @media screen and (max-width:600px){
 
+  #logo{
+    top:20%;
+    left:auto;
+  }
+
   .carCamp{display: none;}
 
   .formCont{padding: 0;}
@@ -216,30 +221,33 @@ label {
 }
 
 @media screen and (max-width:340px) {
-.contFormAll{
-  width: 100vw;
-  height: 100vh;
-  display: block;
-}
 
-.divMail, .divPass, #submit{width: 90vw;}
+  #logo{top: 30px;}
+    
+  .contFormAll{
+    width: 100vw;
+    height: 100vh;
+    display: block;
+  }
 
-#imgMail, #lock{width: 8%;}
+  .divMail, .divPass, #submit{width: 90vw;}
 
- label{margin-left: 1.1rem;}
+  #imgMail, #lock{width: 8%;}
 
- #mail, #password{width: 75%;}
- 
- #checkRem{display: grid;}
+  label{margin-left: 1.1rem;}
 
- #register{margin: auto;}
+  #mail, #password{width: 75%;}
+  
+  #checkRem{display: grid;}
 
- #passReset{margin: auto;}
+  #register{margin: auto;}
 
- #divReg{
-   display: block;
-  justify-content: center;
-  text-align: center;
-}
+  #passReset{margin: auto;}
+
+  #divReg{
+    display: block;
+    justify-content: center;
+    text-align: center;
+  }
   
 }
