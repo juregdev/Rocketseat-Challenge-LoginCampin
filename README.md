@@ -1,5 +1,7 @@
 # Rocketseat Challenge Login Campin
 
+[![License](https://img.shields.io/github/license/filipebarrosg/Rocketseat-Challenge-LoginCampin?style=flat-square)](https://github.com/Filipebarrosg/Rocketseat-Challenge-LoginCampin/blob/main/LICENSE)
+
 
 Desafio Proposto pela @Rocketseat 🚀 onde foi criada uma pagina de Login de um Camping
 
